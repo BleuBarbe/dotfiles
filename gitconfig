@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mack.reboisson@gmail.com
+	name = Emmanuel Mack
